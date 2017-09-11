@@ -50,4 +50,4 @@ If your greeter returns "Hello World!" when prompted, then you have successfully
 
 ## Stuck?
 
-Contact us at [tech@blockchain.berkeley.edu](mailto:tech@blockchain.berkeley.edu)  or come to office hours [TBA]
+Contact us at [tech@blockchain.berkeley.edu](mailto:tech@blockchain.berkeley.edu)  or come to office hours: Monday, September 11th 3pm - Late in Moffit 1 & Tuesday, September 12th 5pm - Late in Moffit 1.
