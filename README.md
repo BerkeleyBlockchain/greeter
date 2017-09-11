@@ -50,4 +50,4 @@ If your greeter returns "Hello World!" when prompted, then you have successfully
 
 ## Stuck?
 
-Contact us at [tech@blockchain.berkeley.edu](mailto:tech@blockchain.berkeley.edu)  or come to office hours: Monday, September 11th 3pm - Late in Moffit 1st floor Makerspace & Tuesday, September 12th 5pm - Late in Moffit 1st floor Makerspace. We will be wearing B@B jackets.
+Contact us at [tech@blockchain.berkeley.edu](mailto:tech@blockchain.berkeley.edu)  or come to office hours: Monday, September 11th 3pm - 7pm in Moffit 1st floor Makerspace & Tuesday, September 12th 5pm - Late in Moffit 1st floor Makerspace. We will be wearing B@B jackets.
